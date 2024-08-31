@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zhenyu-fy
 - 👀 I’m interested in Web develop
-- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on OpenSource Web App
 - 📫 How to reach me : 1620722932@qq.com
 
